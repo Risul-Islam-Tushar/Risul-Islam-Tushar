@@ -7,6 +7,7 @@
 - 📫 How to reach me **risulislam0408@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://fb.com/risul tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="risul tushar" height="30" width="40" /></a>
 </p>
