@@ -1,4 +1,4 @@
-<img align="center" width="400" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
+<img align="center" width="full" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 <h1 align="center">Hi 👋, I'm Risul Islam Tushar,</h1>
 <h3 align="center">an experienced software engineer specializing in web development, creating innovative and user-centric solutions.</h3>
 
