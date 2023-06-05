@@ -11,8 +11,9 @@
 </p>
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risul-islam-tushar&show_icons=true&locale=en&layout=compact&hide=prs,issues,contribs" alt="risul-islam-tushar" /></p>
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=risul-islam-tushar&show_icons=true&count_private=true&hide_border=true&hide=prs,issues,contribs" align="center" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risul-islam-tushar&show_icons=true&locale=en" alt="risul-islam-tushar" /></p>
 
 
