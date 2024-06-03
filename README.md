@@ -1,4 +1,4 @@
-<img align="center" width="full" src="https://github.com/Risul-Islam-Tushar/Risul-Islam-Tushar/assets/121886102/23c8f6c9-13a3-42e5-9301-bc2ff929820f">
+<img align="center" width="100%" src="https://github.com/Risul-Islam-Tushar/Risul-Islam-Tushar/assets/121886102/242f5008-35b1-46d4-9d60-54a36cf42d2a">
 <h3 align="center">Hi 👋, I'm Risul Islam Tushar,an experienced software engineer specializing in web development, creating innovative and user-centric solutions.</h3>
 <br>
 
