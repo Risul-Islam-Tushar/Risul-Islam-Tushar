@@ -35,6 +35,11 @@
 
 ## Github :- 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar&show_icons=true&locale=en&layout=compact" alt="tushar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar&show_icons=true&locale=en" alt="tushar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar&" alt="tushar" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=tushar&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=prs,issues,contribs" align="center" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar&hide_border=true&theme=radical&layout=compact" align="center" /> 
 
