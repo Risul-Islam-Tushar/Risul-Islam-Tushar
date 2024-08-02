@@ -1,6 +1,9 @@
+![logo](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Risul Islam Tushar</h1>
-<h3 align="center">Currently learning Software Quality Assurance (SQA) while also having a background in frontend development.This combination allows me to understand both the creation and the quality aspects of software, ensuring that applications not only look good but also work perfectly.
-</h3>
+
+<h4 align="center">Currently learning Software Quality Assurance (SQA) while also having a background in frontend development.
+ This combination allows me to understand both the creation and the quality aspects of software, ensuring that applications not only look good but also work perfectly.
+</h4>
 
 <br>
 
@@ -16,7 +19,18 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
-</tr>
+</tr><tr valign="top" width="100%">
+
+### SQA
+
+<div align="left"> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=apache%20jmeter&imgurl=https%3A%2F%2Fwww.blazemeter.com%2Fsites%2Fdefault%2Ffiles%2Fimage%2F2022-06%2Fimage-blz-blog-jmeter.jpg&imgrefurl=https%3A%2F%2Fwww.blazemeter.com%2Fblog%2Fjmeter-tutorial&docid=lrtPGuYaB485NM&tbnid=T18MdTJFCx17cM&vet=12ahUKEwjglpL3vdWHAxWF4jgGHWxEGeoQM3oECCoQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjglpL3vdWHAxWF4jgGHWxEGeoQM3oECCoQAA" width="40" height="40"/> </a>
+</div>
+
+
+
 
 ## Connect with me :-  
 <div align="center">
@@ -29,6 +43,7 @@
 </a>
 
 </div>  
+
 
 <br/>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar&label=Profile%20views&color=0e75b6&style=flat" alt="tushar" /> </p>
